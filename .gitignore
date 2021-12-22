@@ -57,3 +57,5 @@ geckodriver.log
 docs/source/changelog.md
 
 .jupyter_releaser_checkout
+Problem Set 4/PS4 - final code.ipynb
+*.ipynb
